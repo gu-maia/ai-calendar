@@ -1,0 +1,13 @@
+# Ignore ENV vars.
+.env
+
+# Ignore IDE files
+/.idea
+.vscode
+
+# Ignore installed files
+/node_modules
+
+
+
+
